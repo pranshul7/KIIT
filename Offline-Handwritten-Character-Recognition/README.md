@@ -1,1 +1,0 @@
-Offline Handwritten Character Recognition
