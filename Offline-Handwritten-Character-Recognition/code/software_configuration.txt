@@ -1,0 +1,6 @@
+Software configuration:
+
+IDE: VS Code
+Programming Language: python
+Python libraries: os, numpy, cv2, PIL, sklearn, keras, tensorflow
+Others: Jupyter Notebooks
